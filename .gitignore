@@ -1,4 +1,5 @@
 /bootstrap/compiled.php
+/bower_components/
 .env.*.php
 .env.php
 .env
